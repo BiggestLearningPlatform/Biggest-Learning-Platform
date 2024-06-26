@@ -1,0 +1,16 @@
+nav {
+    background-color: aqua;
+    padding: 10px;
+}
+.navi {
+    text-decoration: none;
+    margin-left: 80px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+footer {
+    position: fixed;
+    bottom: 1px;
+}
